@@ -37,7 +37,7 @@ fw.list: fwlist-5.15.5-1-pve
 fw.list: fwlist-5.15.19-1-pve
 fw.list: fwlist-5.15.27-1-pve
 fw.list: fwlist-5.15.35-1-pve
-fw.list: fwlist-5.15.53-1-pve
+fw.list: fwlist-5.15.126-1-pve
 fw.list: fwlist-5.19.0-1-pve
 fw.list: fwlist-5.19-iwlwifi-extra
 fw.list: fwlist-6.1.0-1-pve
