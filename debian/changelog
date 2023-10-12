@@ -1,3 +1,12 @@
+pve-firmware (3.6-6) stable; urgency=medium
+
+  * add firmware list for 5.15.126-1-pve adding a reference to tg357766 for
+    broadcom based NICs
+
+  * update linux-firmware to ~ 20230804
+
+ -- Proxmox Support Team <support@proxmox.com>  Thu, 12 Oct 2023 16:10:25 +0200
+
 pve-firmware (3.6-5) stable; urgency=medium
 
   * update linux firmware to 20230404
